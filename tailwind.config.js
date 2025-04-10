@@ -31,7 +31,4 @@ export default {
     },
   },
   plugins: [daisyui], // ✅ Correct ESM import for DaisyUI
-  daisyui: {
-    themes: ["light", "dark", "cupcake"], // ✅ Add or remove themes as needed
-  },
 };
